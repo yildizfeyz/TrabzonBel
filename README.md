@@ -1,2 +1,0 @@
-# TrabzonBel
-Android tablet uygulaması
